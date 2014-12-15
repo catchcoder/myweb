@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	    <meta charset="UTF-8">
+	    <meta name="description" content="RaspberryPi With Custard PI 2 reading analog sensor tmp36">
+	    <meta name="keywords" content="raspberrypi,custard pi">
+	    <meta name="author" content="Chris Hawkins">
+	    <meta name="robots" content="noindex, nofollow">
+	    <title><%= title %></title>
+	    <link rel='stylesheet' href='/stylesheets/style.css' />
+	    <link rel="stylesheet" href="/stylesheets/d3graph.css">
+	    <META HTTP-EQUIV="refresh" CONTENT="60">
+	    <!-- http://bl.ocks.org/mbostock/3884955 -->
+	    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+  </head>
+<body>
+	<script src="http://d3js.org/d3.v3.js"></script>
+ 	<div class="header text-center">
+    		<h1><%= title %></h1>
+	</div> <!-- header -->
+<div class="section">
+
+   	<div class="panel panel-primary">
+		<div class ="panel-heading text-left">
+			<h3>Temperature reading using custard pi 2</h3>
+		</div> <!-- panel-heading -->
+	</div> <!-- panel panel-primary -->
+
+	<div id="graph" class="well">
+			<script src="/javascripts/d3graph.js"></script>
+	</div>
+		
+	
+
+</div> <!-- container -->
+<footer class='alert alert-info'>
+<div>
+<ul>
+<li class="label label-danger">Raspberry Pi</li>
+<li class="label label-warning">Custard Pi 2</li>
+<li class="label label-info">SPI</li>
+<li class="label label-success">Python</li>
+<li class="label label-primary">node.js</li>
+</ul>
+</div>
+<div class="text-right">
+Data capture by Chris Hawkins</div> <!-- alert-->
+</footer>
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+  </body>
+</html>
