@@ -1,7 +1,4 @@
 # Build progress
-![Travis 
-CI](https://travis-ci.org/catchcoder/myweb.svg?branch=master 
-"Progress")
 [![Node.js CI](https://github.com/catchcoder/myweb/actions/workflows/node.js.yml/badge.svg)](https://github.com/catchcoder/myweb/actions/workflows/node.js.yml)
 
 
