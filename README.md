@@ -9,3 +9,14 @@ CI](https://travis-ci.org/catchcoder/myweb.svg?branch=master
 
 Raspberry pi with temperature sensor
 
+
+# Install and Run
+
+1) npm install
+2) DEBUG=myweb:* npm start
+
+#Possible NPM Fixes
+
+npm cache clean --force
+npm cache verify
+npm install --cache /tmp/empty-cache
