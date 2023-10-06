@@ -2,12 +2,12 @@
 ![Travis 
 CI](https://travis-ci.org/catchcoder/myweb.svg?branch=master 
 "Progress")
-![Azure Static Web Apps CI/CD](https://github.com/catchcoder/myweb/workflows/Azure%20Static%20Web%20Apps%20CI/CD/badge.svg)
+[![Node.js CI](https://github.com/catchcoder/myweb/actions/workflows/node.js.yml/badge.svg)](https://github.com/catchcoder/myweb/actions/workflows/node.js.yml)
 
 
 # myweb nodejs with d3.js
 
-Raspberry pi with temperature sensor
+Raspberry PI with temperature sensor
 
 ![Example of webpage](https://github.com/catchcoder/myweb/blob/1aab5357b848b58f3908d3e443d6780d491300fa/public/webpage.png)
 
