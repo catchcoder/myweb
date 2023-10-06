@@ -9,7 +9,7 @@ CI](https://travis-ci.org/catchcoder/myweb.svg?branch=master
 
 Raspberry pi with temperature sensor
 
-![Example of webpage](public/webpage.png)
+![Example of webpage](https://github.com/catchcoder/myweb/blob/1aab5357b848b58f3908d3e443d6780d491300fa/public/webpage.png)
 
 # Install and Run
 
