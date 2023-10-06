@@ -17,13 +17,13 @@ Raspberry pi with temperature sensor
 3) Using web browser visit http://localhost:3000/
 
 
-#Possible NPM Fixes
+## Possible NPM Fixes
 
--npm cache clean --force
--npm cache verify
--npm install --cache /tmp/empty-cache
+- npm cache clean --force
+- npm cache verify
+- npm install --cache /tmp/empty-cache
 
-##update node and npm packages
+## Update node and npm packages
 1) sudo npm install -g npm-check-updates
 2) sudo ncu -u
 3) npm install 
