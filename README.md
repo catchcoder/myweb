@@ -19,9 +19,9 @@ Raspberry pi with temperature sensor
 
 #Possible NPM Fixes
 
-npm cache clean --force
-npm cache verify
-npm install --cache /tmp/empty-cache
+-npm cache clean --force
+-npm cache verify
+-npm install --cache /tmp/empty-cache
 
 ##update node and npm packages
 1) sudo npm install -g npm-check-updates
